@@ -30,3 +30,7 @@
 28. Cryptographic Hashing (SHA-256, bcrypt)
 29. CIA Triad (Confidentiality, Integrity, Availability)
 30. Security Information and Event Management (SIEM)
+
+
+All references are from: https://www.linkedin.com/in/saedf/
+
